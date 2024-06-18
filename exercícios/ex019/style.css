@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+
+}
+
+h1{
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: brown;
+
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+     outline: 10px solid blue;
+}
+
+a{
+    border: 10px solid red ;
+}
+
+p{
+
+}
